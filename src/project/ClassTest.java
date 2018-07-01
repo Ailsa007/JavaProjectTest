@@ -18,7 +18,7 @@ public class ClassTest {
 	
 	public static void test()
 	{
-		System.out.println(DEPARTMENT+"pingjungongzi:"+salary);
+		System.out.println(DEPARTMENT+"pingjungongzi11:"+salary);
 	}
 
 }
